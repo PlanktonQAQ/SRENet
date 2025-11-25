@@ -1,7 +1,7 @@
 # SRENet: Saliency Region-Based Lighting Enhancement Network
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/PlanktonQAQ/SRENet)
-[![Paper Link]([https://img.shields.io/badge/View-Paper-orange](https://ieeexplore.ieee.org/abstract/document/11080243))](https://github.com/PlanktonQAQ/SRENet)
+[![Paper Link](https://img.shields.io/badge/View-Paper-orange)](https://ieeexplore.ieee.org/abstract/document/11080243)
 
 ## Overview
 SRENet (Saliency Region-Based Lighting Enhancement Network) is a deep learning framework designed for adaptive image lighting enhancement, with a focus on preserving and enhancing details in salient regions while optimizing overall visual quality.
